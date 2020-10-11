@@ -17,4 +17,17 @@ Copy the contents of the Shadow™.tech.zip archive to the root of your OBS Stud
 Download and Install the ndi-runtime.zip using the installer provided in the archive. (Gaming-PC and Stream-PC)
 After installation, you must reboot your computers to make NDI Runtime effective.
 
+# Step 3:
+Open OBS Studio on both PC´s (Gaming- and Stream-PC).
 
+Gaming-PC:
+Click in the menutab on Tools now on "Shadow™.tech Output settings".
+Then activate the "Main Output" named OBS
+
+Stream-PC:
+Add the new Source "Shadow™.tech Source" in a Scenes, click "Create new".
+Now select in the "Source name" pulldown menu your Gaming-PC Output named "OBS".
+
+Congratulation now you have a free NDI Based Capturecard without a new overpriced Capturecard Hardware.
+Have fun on your twitch / tube ... stream 
+Best regards and leave a like on twitch empty_shadow
