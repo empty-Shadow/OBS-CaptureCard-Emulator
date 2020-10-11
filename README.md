@@ -30,4 +30,4 @@ Now select in the "Source name" pulldown menu your Gaming-PC Output named "OBS".
 
 Congratulation now you have a free NDI Based Capturecard without a new overpriced Capturecard Hardware.
 Have fun on your twitch / tube ... stream 
-Best regards and leave a like on twitch empty_shadow
+Best regards and leave a follow on twitch empty_shadow
